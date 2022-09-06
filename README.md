@@ -1,6 +1,6 @@
 # Test camera on computer
 
-[![Test camera on computer](red2.png)](https://github.com/fireplane8/test-camera-on-computer)
+[![Test camera on computer](red2.png)](https://icncomputer.com/test-camera-on-computer/)
 
 If you want to open up your camera, you have to select it from the list of apps. If you have more than one camera, you can change it at the top of the app.
 
